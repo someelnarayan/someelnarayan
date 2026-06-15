@@ -66,6 +66,6 @@ A Machine Learning and Natural Language Processing application for classifying n
 
 ## Contact
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: linkedin.com/in/someel-narayan-ram-598768357
 
 GitHub: https://github.com/someelnarayan
