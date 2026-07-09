@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Someel Narayan</h1>
+<h1 align="center">Hi , I'm Someel Narayan</h1>
 <h3 align="center">Backend Developer • AI Engineer • Java • FastAPI • System Design Enthusiast</h3>
 
 <p align="center">
