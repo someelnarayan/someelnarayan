@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Someel Narayan</h1>
 <h3 align="center">Aspiring AI Engineer | Backend Development | Agentic AI, RAG & Intelligent Automation | Building Scalable and Reliable Software</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=someelnarayan" alt="someelnarayan" /></a> </p>
+
 - 🔭 I’m currently working on **Scalable backend systems, AI-powered applications, and developer-focused tools.**
 
 - 🌱 I’m currently learning **System Design • Java Backend • Docker • Kubernetes • LLM Engineering**
@@ -27,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=someelnarayan&show_icons=true&locale=en&layout=compact" alt="someelnarayan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=someelnarayan&show_icons=true&locale=en" alt="someelnarayan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=someelnarayan&" alt="someelnarayan" /></p>
