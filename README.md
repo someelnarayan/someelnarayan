@@ -7,22 +7,22 @@ Building scalable backend systems, solving algorithmic problems, and exploring A
 
 ---
 
-🚀 **I’m currently building:**<br>
+**I’m currently building:**<br>
 Scalable backend systems, AI-powered applications, and developer-focused tools.<br><br>
 
-🤝 **Open to collaborating on:**<br>
+**Open to collaborating on:**<br>
 Backend Engineering • GenAI • Open Source • Developer Tools<br><br>
 
-🎯 **Interested in:**<br>
+**Interested in:**<br>
 High-performance APIs, distributed systems, and cloud-native applications.<br><br>
 
-📚 **Currently learning:**<br>
+**Currently learning:**<br>
 System Design • Java Backend • Docker • Kubernetes • LLM Engineering<br><br>
 
-💡 **Ask me about:**<br>
+**Ask me about:**<br>
 Java | Python | FastAPI | DSA | REST APIs | Backend Development | AI<br><br>
 
-⚡ **Fun fact:**<br>
+**Fun fact:**<br>
 I don't like coding 😂
 
 ---
